@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="STT11_NguyenVanGiau_20053331_20" />
+        <module name="STT11_NguyenVanGiau_20053331_20_Client" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
